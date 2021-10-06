@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/terencetcf/tt-npm-utils/compare/v1.2.0...v1.2.1) (2021-10-06)
+
+
+### Bug Fixes
+
+* **cicd:** update tsconfig ([dc362fc](https://github.com/terencetcf/tt-npm-utils/commit/dc362fc0b38e10fc89fa12302d2f69b6efa4089c))
+
 # [1.2.0](https://github.com/terencetcf/tt-npm-utils/compare/v1.1.0...v1.2.0) (2021-10-06)
 
 
