@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/terencetcf/tt-npm-utils/compare/v1.0.1...v1.0.2) (2021-10-06)
+
+
+### Bug Fixes
+
+* **cicd:** remove private ([44e68a9](https://github.com/terencetcf/tt-npm-utils/commit/44e68a911b430b1e5753dff22779ca0c82fcb45f))
+
 ## [1.0.1](https://github.com/terencetcf/tt-npm-utils/compare/v1.0.0...v1.0.1) (2021-10-06)
 
 
