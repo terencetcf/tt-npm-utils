@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/terencetcf/tt-npm-utils/compare/v1.2.2...v1.2.3) (2021-10-06)
+
+
+### Bug Fixes
+
+* **cicd:** clean up lib ([a970c52](https://github.com/terencetcf/tt-npm-utils/commit/a970c5242d227e0a2870cb5727c6875d863d75f5))
+
 ## [1.2.2](https://github.com/terencetcf/tt-npm-utils/compare/v1.2.1...v1.2.2) (2021-10-06)
 
 
