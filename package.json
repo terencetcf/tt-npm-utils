@@ -1,6 +1,6 @@
 {
   "name": "tt-npm-utils",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "a npm package that contains my mostly use functions",
   "repository": {
     "type": "git",
