@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/terencetcf/tt-npm-utils/compare/v1.1.0...v1.2.0) (2021-10-06)
+
+
+### Features
+
+* **cicd:** update build ([24dd4ed](https://github.com/terencetcf/tt-npm-utils/commit/24dd4ed88a9fa216a22a74f653cd47901398add5))
+
 # [1.1.0](https://github.com/terencetcf/tt-npm-utils/compare/v1.0.3...v1.1.0) (2021-10-06)
 
 
