@@ -8,6 +8,7 @@ const config: Config.InitialOptions = {
     prefix: '<rootDir>/',
   }),
   preset: 'ts-jest',
+  roots: ['test'],
   testEnvironment: 'node',
   testMatch: ['**/test/**/*.test.ts'],
   collectCoverageFrom: [
