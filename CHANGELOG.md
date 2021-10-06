@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/terencetcf/tt-npm-utils/compare/v1.0.2...v1.0.3) (2021-10-06)
+
+
+### Bug Fixes
+
+* **cicd:** npm package ([9d2c069](https://github.com/terencetcf/tt-npm-utils/commit/9d2c0690c11f748c4920aa382ac7148a00ecabc5))
+
 ## [1.0.2](https://github.com/terencetcf/tt-npm-utils/compare/v1.0.1...v1.0.2) (2021-10-06)
 
 
