@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/terencetcf/tt-npm-utils/compare/v1.0.3...v1.1.0) (2021-10-06)
+
+
+### Features
+
+* **object-util:** add objectUtil ([ee390c1](https://github.com/terencetcf/tt-npm-utils/commit/ee390c1da0cec0fa861cafcf3f4074eef7c474c3))
+
 ## [1.0.3](https://github.com/terencetcf/tt-npm-utils/compare/v1.0.2...v1.0.3) (2021-10-06)
 
 
