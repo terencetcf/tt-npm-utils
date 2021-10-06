@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/terencetcf/tt-npm-utils/compare/v1.2.1...v1.2.2) (2021-10-06)
+
+
+### Bug Fixes
+
+* **cicd:** remove lib content ([f27ed6c](https://github.com/terencetcf/tt-npm-utils/commit/f27ed6cffd93e482df40b1f23ddad9626f8ef26d))
+
 ## [1.2.1](https://github.com/terencetcf/tt-npm-utils/compare/v1.2.0...v1.2.1) (2021-10-06)
 
 
