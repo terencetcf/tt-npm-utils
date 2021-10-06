@@ -13,7 +13,6 @@
   ],
   "author": "Terence Tai",
   "license": "UNLICENSED",
-  "private": true,
   "main": "lib/index.js",
   "scripts": {
     "build": "tsc --project tsconfig.production.json",
