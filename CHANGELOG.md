@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/terencetcf/tt-npm-utils/compare/v1.0.0...v1.0.1) (2021-10-06)
+
+
+### Bug Fixes
+
+* **cicd:** allow publish to npm ([fba27bf](https://github.com/terencetcf/tt-npm-utils/commit/fba27bff93a835c1578fe8761eb89fd0c8340031))
+* **cicd:** remove pkgRoot ([1a64545](https://github.com/terencetcf/tt-npm-utils/commit/1a64545383a48adffb5d257294f64e97d72216da))
+
 # 1.0.0 (2021-10-06)
 
 
