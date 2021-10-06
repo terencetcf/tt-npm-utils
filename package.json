@@ -4,7 +4,7 @@
   "description": "a npm package that contains my mostly use functions",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pulsifi/tt-npm-utils"
+    "url": "https://github.com/terencetcf/tt-npm-utils"
   },
   "keywords": [
     "npm",
@@ -16,7 +16,7 @@
   "private": true,
   "main": "lib/index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc --project tsconfig.production.json",
     "test": "jest",
     "test:coverage": "jest --coverage"
   },
