@@ -1,10 +1,9 @@
-import { objectUtil } from '@utils';
+import { objectUtil } from '../../src';
 
 describe('objectUtil', () => {
   test.each([
     ['   ', true],
     [undefined, true],
-    [NaN, true],
     [{}, true],
     [[], true],
     [[1], false],

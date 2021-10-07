@@ -1,4 +1,4 @@
-import { stringUtil } from '@utils';
+import { stringUtil } from '../../src';
 
 describe('stringUtil', () => {
   it('should return replaced characters', () => {

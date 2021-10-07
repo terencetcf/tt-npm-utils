@@ -1,12 +1,11 @@
 {
   "compilerOptions": {
+    "moduleResolution": "node",
     "target": "es6",
     "module": "commonjs",
-    "outDir": "./lib",
-    "baseUrl": "./",
-    "paths": {
-      "@utils": ["src/utils"]
-    },
+    "outDir": "lib",
+    "baseUrl": ".",
+    "declarationDir": "lib/types",
     "declaration": true,
     "resolveJsonModule": true,
     "strict": true,

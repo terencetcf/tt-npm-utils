@@ -13,9 +13,9 @@
   ],
   "author": "Terence Tai",
   "license": "UNLICENSED",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
-    "copy": "copyfiles package.json ./lib",
+    "copy": "copyfiles -u 1 src/package.json lib",
     "build": "tsc --project tsconfig.production.json && yarn copy",
     "test": "jest",
     "test:coverage": "jest --coverage"
@@ -45,8 +45,5 @@
   },
   "lint-staged": {
     "*.ts": "eslint --cache --cache-location .eslintcache --fix"
-  },
-  "dependencies": {
-    "lodash.isempty": "^4.4.0"
   }
 }

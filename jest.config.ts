@@ -1,16 +1,10 @@
 import type { Config } from '@jest/types';
-import { pathsToModuleNameMapper } from 'ts-jest/utils';
-
-import { compilerOptions } from './tsconfig.json';
 
 const config: Config.InitialOptions = {
-  moduleNameMapper: pathsToModuleNameMapper(compilerOptions.paths, {
-    prefix: '<rootDir>/',
-  }),
   preset: 'ts-jest',
-  roots: ['test'],
   testEnvironment: 'node',
-  testMatch: ['**/test/**/*.test.ts'],
+  testMatch: ['<rootDir>/test/**/*.test.ts'],
+  modulePathIgnorePatterns: ['<rootDir>/lib'],
   collectCoverageFrom: [
     '<rootDir>/src/**/*.ts',
     '!<rootDir>/src/types/**/*.ts',

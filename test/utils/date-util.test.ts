@@ -1,4 +1,4 @@
-import { dateUtil } from '@utils';
+import { dateUtil } from '../../src';
 
 describe('dateUtil', () => {
   it('should return current date', () => {
