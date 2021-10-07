@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/terencetcf/tt-npm-utils/compare/v1.2.3...v1.3.0) (2021-10-07)
+
+
+### Features
+
+* **infra:** clean up ([aef4906](https://github.com/terencetcf/tt-npm-utils/commit/aef49065b5c6850de962e321f7526a2f2e525a83))
+
 ## [1.2.3](https://github.com/terencetcf/tt-npm-utils/compare/v1.2.2...v1.2.3) (2021-10-06)
 
 
