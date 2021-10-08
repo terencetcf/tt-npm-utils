@@ -1,3 +1,10 @@
+## [1.3.4](https://github.com/terencetcf/tt-npm-utils/compare/v1.3.3...v1.3.4) (2021-10-08)
+
+
+### Bug Fixes
+
+* **cicd:** update postversion cp path ([05cbb5f](https://github.com/terencetcf/tt-npm-utils/commit/05cbb5f521f02234af4cec4883a8ded408205860))
+
 ## [1.3.3](https://github.com/terencetcf/tt-npm-utils/compare/v1.3.2...v1.3.3) (2021-10-08)
 
 
