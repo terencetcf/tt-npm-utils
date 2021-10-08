@@ -17,6 +17,7 @@
   "scripts": {
     "copy": "copyfiles -u 1 src/package.json lib",
     "build": "tsc --project tsconfig.production.json && yarn copy",
+    "postversion": "cp -r package.json ./src/",
     "test": "jest",
     "test:coverage": "jest --coverage"
   },
