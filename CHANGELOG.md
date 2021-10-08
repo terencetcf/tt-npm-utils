@@ -1,3 +1,10 @@
+## [1.3.5](https://github.com/terencetcf/tt-npm-utils/compare/v1.3.4...v1.3.5) (2021-10-08)
+
+
+### Bug Fixes
+
+* **cicd:** update gh action ([8074da2](https://github.com/terencetcf/tt-npm-utils/commit/8074da2aa5eac7472ab7d6416f25f630eb776527))
+
 ## [1.3.4](https://github.com/terencetcf/tt-npm-utils/compare/v1.3.3...v1.3.4) (2021-10-08)
 
 
