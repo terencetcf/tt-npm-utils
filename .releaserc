@@ -25,5 +25,8 @@
       }
     ],
     "@semantic-release/github"
-  ]
+  ],
+  "scripts": {
+    "postversion": "cp -r package.json ../src/"
+  }
 }
