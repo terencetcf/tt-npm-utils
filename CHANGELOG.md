@@ -1,3 +1,10 @@
+## [1.4.4](https://github.com/terencetcf/tt-npm-utils/compare/v1.4.3...v1.4.4) (2021-10-08)
+
+
+### Performance Improvements
+
+* **clean:** project clean up ([fe0a383](https://github.com/terencetcf/tt-npm-utils/commit/fe0a38374b8f840b8a52957f01a60e6bfa3bee24))
+
 ## [1.4.3](https://github.com/terencetcf/tt-npm-utils/compare/v1.4.2...v1.4.3) (2021-10-08)
 
 
