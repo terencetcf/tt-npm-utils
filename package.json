@@ -16,7 +16,7 @@
   "main": "index.js",
   "typings": "./types/index.d.ts",
   "scripts": {
-    "postversion": "cp -r package.json ../src/",
+    "postversion": "cp -r package.json ..",
     "copy": "copyfiles package.json lib",
     "build": "tsc --project tsconfig.production.json && yarn copy",
     "test": "jest",
@@ -25,7 +25,6 @@
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.0",
     "@semantic-release/git": "^10.0.0",
-    "@semantic-release/npm": "^8.0.0",
     "@types/jest": "^27.0.2",
     "@types/lodash.isempty": "^4.4.6",
     "@types/moment": "^2.13.0",
