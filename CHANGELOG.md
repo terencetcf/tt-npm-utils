@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/terencetcf/tt-npm-utils/compare/v1.3.6...v1.4.0) (2021-10-08)
+
+
+### Features
+
+* **date:** add dateformat ([65e3f44](https://github.com/terencetcf/tt-npm-utils/commit/65e3f442706022b060a3ce6ed0a4b6a9d15bfb2a))
+
 ## [1.3.6](https://github.com/terencetcf/tt-npm-utils/compare/v1.3.5...v1.3.6) (2021-10-08)
 
 
