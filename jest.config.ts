@@ -4,7 +4,7 @@ const config: Config.InitialOptions = {
   preset: 'ts-jest',
   testEnvironment: 'node',
   testMatch: ['<rootDir>/test/**/*.test.ts'],
-  modulePathIgnorePatterns: ['<rootDir>/lib'],
+  modulePathIgnorePatterns: ['<rootDir>/lib', '<rootDir>/src/package.json'],
   collectCoverageFrom: [
     '<rootDir>/src/**/*.ts',
     '!<rootDir>/src/types/**/*.ts',
