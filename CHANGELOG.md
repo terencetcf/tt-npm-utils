@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/terencetcf/tt-npm-utils/compare/v1.4.1...v1.4.2) (2021-10-08)
+
+
+### Bug Fixes
+
+* **cicd:** update releaserc for package.json ([31a7265](https://github.com/terencetcf/tt-npm-utils/commit/31a72656cc1580f602d5e4dbbf9489177c94c73a))
+
 ## [1.4.1](https://github.com/terencetcf/tt-npm-utils/compare/v1.4.0...v1.4.1) (2021-10-08)
 
 
