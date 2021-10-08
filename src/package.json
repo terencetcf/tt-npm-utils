@@ -14,5 +14,8 @@
   "author": "Terence Tai",
   "license": "UNLICENSED",
   "main": "index.js",
-  "typings": "./types/index.d.ts"
+  "typings": "./types/index.d.ts",
+  "scripts": {
+    "postversion": "cp -r package.json ../src/"
+  }
 }

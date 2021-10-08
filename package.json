@@ -15,7 +15,6 @@
   "license": "UNLICENSED",
   "main": "index.js",
   "scripts": {
-    "postversion": "cp -r package.json ../src/",
     "copy": "copyfiles -u 1 src/package.json lib",
     "build": "tsc --project tsconfig.production.json && yarn copy",
     "test": "jest",
