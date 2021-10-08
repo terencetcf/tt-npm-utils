@@ -12,10 +12,12 @@
     "tt"
   ],
   "author": "Terence Tai",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "main": "index.js",
+  "typings": "./types/index.d.ts",
   "scripts": {
-    "copy": "copyfiles -u 1 src/package.json lib",
+    "postversion": "cp -r package.json ../src/",
+    "copy": "copyfiles package.json lib",
     "build": "tsc --project tsconfig.production.json && yarn copy",
     "test": "jest",
     "test:coverage": "jest --coverage"
