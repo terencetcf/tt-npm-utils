@@ -1,3 +1,10 @@
+## [1.4.5](https://github.com/terencetcf/tt-npm-utils/compare/v1.4.4...v1.4.5) (2021-10-11)
+
+
+### Performance Improvements
+
+* **readme:** update readme to test ([b6e01b3](https://github.com/terencetcf/tt-npm-utils/commit/b6e01b3dc79565116282d255474ddd14caf2ea2d))
+
 ## [1.4.4](https://github.com/terencetcf/tt-npm-utils/compare/v1.4.3...v1.4.4) (2021-10-08)
 
 
