@@ -24,7 +24,7 @@
     "test:ci": "jest --coverage --ci"
   },
   "dependencies": {
-    "moment": "^2.29.1"
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.2.1",
