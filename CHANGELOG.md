@@ -1,3 +1,22 @@
+## [1.4.6](https://github.com/terencetcf/tt-npm-utils/compare/v1.4.5...v1.4.6) (2022-08-02)
+
+
+### Bug Fixes
+
+* add is ci check ([7025413](https://github.com/terencetcf/tt-npm-utils/commit/7025413c2b8423229ccdd2c37c0b3401449761ba))
+* update commitlint npm package ([8327e58](https://github.com/terencetcf/tt-npm-utils/commit/8327e58d51a73c3a4a6e7718af2ad0870b11c2fd))
+* update commitlint rule ([50eb147](https://github.com/terencetcf/tt-npm-utils/commit/50eb147d7b30e6f6ff09cf2fc29bc5057045f406))
+* update dev tools npm package ([98cfb56](https://github.com/terencetcf/tt-npm-utils/commit/98cfb5670fb4b81cb965a0702ef5bf535b6ad6dc))
+* update eslint npm package ([a059c8f](https://github.com/terencetcf/tt-npm-utils/commit/a059c8f831aab9221ed908bff8583291082f9f26))
+* update jest npm packages ([e53adf4](https://github.com/terencetcf/tt-npm-utils/commit/e53adf48af676b3b7692e07ca1cfb3d035e9098c))
+* update lodash types npm package ([dc2bf36](https://github.com/terencetcf/tt-npm-utils/commit/dc2bf36f84ee42b014020bc4964a431f79d5e8ec))
+* update moment npm package ([bcbb20a](https://github.com/terencetcf/tt-npm-utils/commit/bcbb20a27c2b7a9a6dcaac5f91b8bcd9caf3a632))
+* update node npm packages ([76b0b6c](https://github.com/terencetcf/tt-npm-utils/commit/76b0b6c83a405eac50ef07f6959161de8b181c30))
+* update semantic-release npm package ([2d924ce](https://github.com/terencetcf/tt-npm-utils/commit/2d924ce78eec5358e1d254abc9f58d4537edb5a0))
+* update test workflows ([b474ad3](https://github.com/terencetcf/tt-npm-utils/commit/b474ad31ad899f6a0bdd6b56c88a564a9579886d))
+* update typescript eslint npm package ([828d482](https://github.com/terencetcf/tt-npm-utils/commit/828d482af23515f76857d02762ce7fa8fd06d352))
+* update typescript npm package ([84ce7a6](https://github.com/terencetcf/tt-npm-utils/commit/84ce7a6b4938bac215c474c28193768bc9ab81b2))
+
 ## [1.4.6](https://github.com/terencetcf/tt-npm-utils/compare/v1.4.5...v1.4.6) (2022-08-01)
 
 
