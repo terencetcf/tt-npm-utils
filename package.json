@@ -16,7 +16,7 @@
   "main": "index.js",
   "typings": "./types/index.d.ts",
   "scripts": {
-    "prepare": "husky install",
+    "prepare": "is-ci || husky install",
     "postversion": "cp -r package.json ..",
     "copy": "copyfiles package.json lib",
     "build": "tsc --project tsconfig.production.json && yarn copy",
@@ -44,6 +44,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-simple-import-sort": "^7.0.0",
     "husky": "^8.0.1",
+    "is-ci": "^3.0.1",
     "jest": "^28.1.3",
     "lint-staged": "^13.0.3",
     "prettier": "^2.7.1",
